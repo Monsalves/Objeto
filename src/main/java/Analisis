@@ -1,0 +1,19 @@
+/
+¿Qué puede hacer un gato?
+/
+¿Qué comparten en común todos los gatos?
+/
+*Los gatos pueden caminar, correr, comer, cazar, jugar,dormir
+/
+*Todos los gatos tienen un color de pelo(a excepción de una raza), ojos, orejas, bigotes, nombre, edad, raza.
+/
+
+
+¿Cómo lo represento usando conceptos de la POO?
+/
+Clase : Gato
+/
+Atributos : Nombre, edad, color de pelo, raza.
+/
+Métodos : Caminar, cazar, dormir ,comer , jugar
+
